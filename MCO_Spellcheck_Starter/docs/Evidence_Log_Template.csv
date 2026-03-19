@@ -1,0 +1,19 @@
+rule_id,incorrect_form,correct_form,platform,source_url,date_accessed,screenshot_file,notes
+MCO_RULE_1_HINDE,hinde,hindi,Facebook,https://www.facebook.com/search/top?q=hinde,2026-03-19,,Capture at least one post containing hinde
+MCO_RULE_1_HINDE,hinde,hindi,YouTube,https://www.youtube.com/results?search_query=hinde,2026-03-19,,Capture title/comment containing hinde
+MCO_RULE_1_HINDE,hinde,hindi,X,https://x.com/search?q=hinde,2026-03-19,,Optional third source
+MCO_RULE_1_HINDE,hinde,hindi,TikTok,https://www.tiktok.com/search?q=hinde,2026-03-19,,Optional third source
+MCO_RULE_1_HINDE,hinde,hindi,Forum/blog,[ADD_DIRECT_URL],2026-03-19,,Replace with direct URL from your corpus
+MCO_RULE_1_HINDE,hinde,hindi,Forum/blog,[ADD_DIRECT_URL],2026-03-19,,Replace with direct URL from your corpus
+MCO_RULE_2_KASE,kase,kasi,Facebook,https://www.facebook.com/search/top?q=kase,2026-03-19,,Capture at least one post containing kase
+MCO_RULE_2_KASE,kase,kasi,YouTube,https://www.youtube.com/results?search_query=kase,2026-03-19,,Capture title/comment containing kase
+MCO_RULE_2_KASE,kase,kasi,X,https://x.com/search?q=kase,2026-03-19,,Optional third source
+MCO_RULE_2_KASE,kase,kasi,TikTok,https://www.tiktok.com/search?q=kase,2026-03-19,,Optional third source
+MCO_RULE_2_KASE,kase,kasi,Forum/blog,[ADD_DIRECT_URL],2026-03-19,,Replace with direct URL from your corpus
+MCO_RULE_2_KASE,kase,kasi,Forum/blog,[ADD_DIRECT_URL],2026-03-19,,Replace with direct URL from your corpus
+MCO_RULE_3_PEDE,pede,puwede,Facebook,https://www.facebook.com/search/top?q=pede,2026-03-19,,Capture at least one post containing pede
+MCO_RULE_3_PEDE,pede,puwede,YouTube,https://www.youtube.com/results?search_query=pede,2026-03-19,,Capture title/comment containing pede
+MCO_RULE_3_PEDE,pede,puwede,X,https://x.com/search?q=pede,2026-03-19,,Optional third source
+MCO_RULE_3_PEDE,pede,puwede,TikTok,https://www.tiktok.com/search?q=pede,2026-03-19,,Optional third source
+MCO_RULE_3_PEDE,pede,puwede,Forum/blog,[ADD_DIRECT_URL],2026-03-19,,Replace with direct URL from your corpus
+MCO_RULE_3_PEDE,pede,puwede,Forum/blog,[ADD_DIRECT_URL],2026-03-19,,Replace with direct URL from your corpus
